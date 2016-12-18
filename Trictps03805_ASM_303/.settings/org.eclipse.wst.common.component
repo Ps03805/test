@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Trictps03805_ASM_303">
+        <wb-resource deploy-path="/" source-path="/apps/Asignment/common"/>
+        <wb-resource deploy-path="/" source-path="/apps/Asignment/android"/>
+        <property name="context-root" value="Trictps03805_ASM_303"/>
+    </wb-module>
+</project-modules>
